@@ -73,7 +73,7 @@ class MainApp extends StatelessWidget {
                               Text(
                                 'Name: Saqoor Alalawy',
                                 style: TextStyle(
-                                  fontSize: 18,
+                                  fontSize: 15,
                                   fontWeight: FontWeight.bold,
                                   color: Color.fromARGB(221, 0, 119, 255),
                                 ),
@@ -138,7 +138,7 @@ class MainApp extends StatelessWidget {
                               Text(
                                 'Name: Maymona Alalawy',
                                 style: TextStyle(
-                                  fontSize: 18,
+                                  fontSize: 15,
                                   fontWeight: FontWeight.bold,
                                   color: Color.fromARGB(221, 212, 0, 255),
                                 ),
@@ -153,7 +153,7 @@ class MainApp extends StatelessWidget {
                               ),
                               SizedBox(height: 10),
                               Text(
-                                'Gender: Femail',
+                                'Gender: Female',
                                 style: TextStyle(
                                   fontSize: 15,
                                   color: Color.fromARGB(70, 217, 0, 255),
